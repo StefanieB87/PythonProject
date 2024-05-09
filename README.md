@@ -5,6 +5,12 @@
 - Wochendatum kann automatisch berechnet werden
 - Speichern mit und ohne Datum/Metadaten möglich -> reine Texte
 
+## Abhängigkeiten
+- PyMuPDF
+- Thread
+- tkinter
+- 
+
 ## Pläne
 - standalone app
 - 
