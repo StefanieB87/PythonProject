@@ -5,5 +5,6 @@
 - Wochendatum kann automatisch berechnet werden
 - Speichern mit und ohne Datum/Metadaten möglich -> reine Texte
 
-## Abhängigkeiten
-tkPDFViewer
+## Pläne
+- standalone app
+- 
